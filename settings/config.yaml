@@ -1,0 +1,119 @@
+# Example configuration file for program
+
+skins:
+  - url: https://steamcommunity.com/market/listings/730/MP7%20%7C%20Motherboard%20%28Field-Tested%29
+    float: 0.1807
+    price: 0.21
+    number_of_stickers:
+    pages: 30
+  - url: https://steamcommunity.com/market/listings/730/Negev%20%7C%20Bulkhead%20%28Field-Tested%29
+    float: 0.1807
+    price: 0.21
+    number_of_stickers:
+    pages: 30
+  - url: https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Cold%20Fusion%20%28Field-Tested%29
+    float: 0.1807
+    price: 0.21
+    number_of_stickers:
+    pages: 20
+  - url: https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Mainframe%20%28Field-Tested%29
+    float: 0.1807
+    price: 0.21
+    number_of_stickers:
+    pages: 30
+  - url: https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Pipe%20Down%20%28Field-Tested%29
+    float: 0.18749
+    price: 2.99
+    number_of_stickers:
+    pages: 6
+  - url: https://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Scavenger%20%28Field-Tested%29
+    float: 0.18749
+    price: 2.99
+    number_of_stickers:
+    pages: 6
+  - url: https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Flashback%20%28Field-Tested%29
+    float: 0.18749
+    price: 2.99
+    number_of_stickers:
+    pages: 6
+  - url: https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Signal%20%28Field-Tested%29
+    float: 0.18749
+    price: 2.99
+    number_of_stickers:
+    pages: 6
+  - url: https://steamcommunity.com/market/listings/730/P250%20%7C%20Nevermore%20%28Field-Tested%29
+    float: 0.18749
+    price: 2.99
+    number_of_stickers:
+    pages: 6    
+  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20MAC-10%20%7C%20Ensnared%20%28Field-Tested%29
+    float: 0.1923064102564103
+    price: 0.61
+    number_of_stickers:
+    pages: 20  
+  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20MP5-SD%20%7C%20Necro%20Jr.%20%28Field-Tested%29
+    float: 0.1923064102564103
+    price: 0.61
+    number_of_stickers:
+    pages: 20 
+  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20P2000%20%7C%20Lifted%20Spirits%20%28Field-Tested%29
+    float: 0.1923064102564103
+    price: 0.61
+    number_of_stickers:
+    pages: 20
+  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Foresight%20%28Field-Tested%29
+    float: 0.1923064102564103
+    price: 0.61
+    number_of_stickers:
+    pages: 20
+  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20SCAR-20%20%7C%20Poultrygeist%20%28Field-Tested%29
+    float: 0.1923064102564103
+    price: 0.61
+    number_of_stickers:
+    pages: 20
+  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Scrawl%20%28Field-Tested%29
+    float: 0.1923064102564103
+    price: 0.61
+    number_of_stickers:
+    pages: 20
+  - url: https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Brass%20%28Field-Tested%29
+    float: 0.1749999975
+    price: 4.52
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20VariCamo%20%28Field-Tested%29
+    float: 0.1749999975
+    price: 4.52
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Damascus%20Steel%20%28Field-Tested%29
+    float: 0.1749999975
+    price: 4.52
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Allure%20%28Field-Tested%29
+    float: 0.1999
+    price: 2.31
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Connexion%20%28Field-Tested%29
+    float: 0.1999
+    price: 2.31
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/MP5-SD%20%7C%20Kitbash%20%28Field-Tested%29
+    float: 0.1999
+    price: 2.31
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Monster%20Call%20%28Field-Tested%29
+    float: 0.1999
+    price: 2.31
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Brother%20%28Field-Tested%29
+    float: 0.1999
+    price: 2.31
+    number_of_stickers:
+    pages: 10
+    
