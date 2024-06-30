@@ -5,12 +5,12 @@ skins:
     float: 0.1807
     price: 0.21
     number_of_stickers:
-    pages: 30
+    pages: 20
   - url: https://steamcommunity.com/market/listings/730/Negev%20%7C%20Bulkhead%20%28Field-Tested%29
     float: 0.1807
     price: 0.21
     number_of_stickers:
-    pages: 30
+    pages: 20
   - url: https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Cold%20Fusion%20%28Field-Tested%29
     float: 0.1807
     price: 0.21
@@ -20,7 +20,7 @@ skins:
     float: 0.1807
     price: 0.21
     number_of_stickers:
-    pages: 30
+    pages: 20
   - url: https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Pipe%20Down%20%28Field-Tested%29
     float: 0.18749
     price: 2.99
@@ -40,42 +40,7 @@ skins:
     float: 0.18749
     price: 2.99
     number_of_stickers:
-    pages: 6
-  - url: https://steamcommunity.com/market/listings/730/P250%20%7C%20Nevermore%20%28Field-Tested%29
-    float: 0.18749
-    price: 2.99
-    number_of_stickers:
-    pages: 6    
-  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20MAC-10%20%7C%20Ensnared%20%28Field-Tested%29
-    float: 0.1923064102564103
-    price: 0.61
-    number_of_stickers:
-    pages: 20  
-  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20MP5-SD%20%7C%20Necro%20Jr.%20%28Field-Tested%29
-    float: 0.1923064102564103
-    price: 0.61
-    number_of_stickers:
-    pages: 20 
-  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20P2000%20%7C%20Lifted%20Spirits%20%28Field-Tested%29
-    float: 0.1923064102564103
-    price: 0.61
-    number_of_stickers:
-    pages: 20
-  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Foresight%20%28Field-Tested%29
-    float: 0.1923064102564103
-    price: 0.61
-    number_of_stickers:
-    pages: 20
-  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20SCAR-20%20%7C%20Poultrygeist%20%28Field-Tested%29
-    float: 0.1923064102564103
-    price: 0.61
-    number_of_stickers:
-    pages: 20
-  - url: https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Scrawl%20%28Field-Tested%29
-    float: 0.1923064102564103
-    price: 0.61
-    number_of_stickers:
-    pages: 20
+    pages: 6 
   - url: https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Brass%20%28Field-Tested%29
     float: 0.1749999975
     price: 4.52
@@ -114,6 +79,36 @@ skins:
   - url: https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Brother%20%28Field-Tested%29
     float: 0.1999
     price: 2.31
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Flame%20Test%20%28Minimal%20Wear%29
+    float: 0.0874
+    price: 0.56
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Oxide%20Blaze%20%28Minimal%20Wear%29
+    float: 0.0874
+    price: 0.56
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Aloha%20%28Minimal%20Wear%29
+    float: 0.0874
+    price: 0.56
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/P2000%20%7C%20Urban%20Hazard%20%28Minimal%20Wear%29
+    float: 0.0874
+    price: 0.56
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Night%20Riot%20%28Minimal%20Wear%29
+    float: 0.0874
+    price: 0.56
+    number_of_stickers:
+    pages: 10
+  - url: https://steamcommunity.com/market/listings/730/MP9%20%7C%20Black%20Sand%20%28Minimal%20Wear%29
+    float: 0.0874
+    price: 0.56
     number_of_stickers:
     pages: 10
     

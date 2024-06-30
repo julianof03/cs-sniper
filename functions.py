@@ -302,16 +302,15 @@ def check_item_parameters(item_float, whole, count, url_info):
 def check_max_price(order, price, count, url_info):
     if url_info[count][3] is not None:
         try:
-            max_price = float(url_info[count][3])
+            max_price = float(url_info[count][2])
             current_price = price[order]
             logger.debug(f"Max price: {max_price}, Current price: {current_price}")
-            if max_price <= current_price:
+            if max_price < current_price:  # Mudança para '<' para bloquear preços maiores
                 return False
         except IndexError:
             logger.error(f"Price index {order} is out of range.")
             return True  # Considerando verdadeiro se o índice estiver fora do alcance para evitar falhas
     return True
-
 
 def page_count():
     try:
